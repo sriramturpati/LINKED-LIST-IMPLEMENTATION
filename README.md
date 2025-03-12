@@ -74,4 +74,6 @@ The implementation of a linked list in C involves defining a node structure and 
 
 Linked lists are a powerful data structure that provides dynamic memory allocation and efficient operations. They are widely used in applications requiring flexible data storage, such as dynamic memory management, graph representations, and implementing stacks and queues. Understanding linked lists helps in efficient programming and problem-solving in C.
 
+
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/c0440f5e-f09d-4399-a66c-daada3f197eb)
